@@ -22,5 +22,8 @@ docker build -t username/qm-docker-xxx .
 docker push qm-docker-xxx[:tag]
 ```
 
+### 仓库地址
+https://hub.docker.com/r/zzzzzzshpig/qm-ci-app
 
-
+### 使用镜像
+image: zzzzzzshpig/qm-ci-app
